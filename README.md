@@ -1,7 +1,7 @@
 # Differentiating System of Dangerous Roads     
 
 <p>
-	Desktop system with the GIS function, Database Searching or Editing Function and Analyses of Roads Security based on .Net and ArcObject.
+	Desktop system with the GIS function, Database relevant function and Data Mining of Roads Security based on .Net and ArcObject.
 	
 </p>
 <p>
